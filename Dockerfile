@@ -1,4 +1,4 @@
-FROM reruin/sharelist
+FROM evrstr/sharelist
 MAINTAINER reruin <reruin@gmail.com>
 
 ENV PORT 33001
