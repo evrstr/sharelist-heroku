@@ -1,5 +1,5 @@
 FROM evrstr/sharelist
-MAINTAINER reruin <reruin@gmail.com>
+MAINTAINER evrstr <429427989yiqi@gmail.com>
 
 ENV PORT 33001
 EXPOSE 33001
