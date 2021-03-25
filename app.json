@@ -18,6 +18,10 @@
     "BLOGADDR": {
       "description": "博客地址(字符串)",
       "value": ""
+    },
+    "BLOGNAME": {
+      "description": "博客名字(字符串)",
+      "value": ""
     }
   },
   "website": "https://github.com/evrstr/sharelist-heroku",
