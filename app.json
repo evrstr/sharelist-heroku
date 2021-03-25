@@ -10,6 +10,14 @@
     "CONFIG": {
       "description": "配置文件(JSON字符串 或 http远程文件)",
       "value": ""
+    },
+    "githubAddr": {
+      "description": "Github地址(字符串)",
+      "value": ""
+    },
+    "BLOGADDR": {
+      "description": "博客地址(字符串)",
+      "value": ""
     }
   },
   "website": "https://github.com/evrstr/sharelist-heroku",
